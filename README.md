@@ -12,8 +12,8 @@
 ## Unity プロジェクトの入手方法
 
 1. このページの「Code」ボタンから「Download ZIP」を選択する
-2. ダウンロードした「techbook-unity-2d-action-game-2021-main.zip」を展開する
-3. 展開した「techbook-unity-2d-action-game-2021-main」フォルダを Unity で開く
+2. ダウンロードした「unity-2d-action-game-2021-main.zip」を展開する
+3. 展開した「unity-2d-action-game-2021-main」フォルダを Unity で開く
 
 ## 実行ファイルの入手方法
 
